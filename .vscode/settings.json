@@ -1,0 +1,21 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "docwriter.style": "reST",
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "wolf.disableHotModeWarning": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "autoDocstring.includeExtendedSummary": true,
+  "autoDocstring.docstringFormat": "sphinx"
+}
